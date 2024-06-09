@@ -1,5 +1,4 @@
 # ExamSchedulingInsights
-Exam Scheduling Insights
 Welcome to the Exam Scheduling Insights repository! This project provides an in-depth analysis of candidate scheduling and exam-taking behavior. Through data visualization and exploration, we uncover valuable insights to understand the patterns and trends in exam scheduling.
 
 Overview:-
